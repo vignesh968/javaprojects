@@ -1,0 +1,10 @@
+ATM MACHINE PROJECT IN JAVA
+1.validate the user through ATM Number and pin.
+
+2.user should able to perform below operations
+    -check  available balance
+    - withdraw amount
+    -deposit amount
+    -view mini statement
+    -exit
+     
